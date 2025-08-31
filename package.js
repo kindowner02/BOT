@@ -1,5 +1,5 @@
 {
-  "name": "always_online_bot",
+  "name": "bot",
   "version": "1.0.0",
   "description": "Minecraft AFK Bot always online using Render",
   "main": "index.js",
